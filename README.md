@@ -6,7 +6,7 @@ A new Flutter project.
 
 ### Here are some screenshots of the app:
 
-#### Home Screen
+### Home Screen
 <p align="center">
   <img src="Assets/ScreenShots/movie_s8.jpg" width="24%">
   <img src="Assets/ScreenShots/movie_s1.jpg" width="24%">
@@ -14,13 +14,13 @@ A new Flutter project.
    <img src="Assets/ScreenShots/movie_s3.jpg" width="24%">
 </p>
 
-#### Movie Details Screen
+### Movie Details Screen
 <p align="center">
   <img src="Assets/ScreenShots/movie_s5.jpg" width="30%">
   <img src="Assets/ScreenShots/movie_s6.jpg" width="30%">
 </p>
 
-#### Profile
+####My Profile Page
 <p align="center">
   <img src="Assets/ScreenShots/movie_s7.jpg" width="30%">
 </p>
