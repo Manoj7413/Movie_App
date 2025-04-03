@@ -4,12 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-## Screenshots
-
-Here are some screenshots of the app:
+## Here are some screenshots of the app:
 
 ### Home Screen
-![Home Screen](assets/screenshots/home.png)
+![Home Screen](Assets/ScreenShots/movie_s1.png)
+![Home Screen](Assets/ScreenShots/movie_s2.png)
+![Home Screen](Assets/ScreenShots/movie_s3.png)
 
 ### Movie Details Screen
-![Movie Details](assets/screenshots/details.png)
+![Home Screen](Assets/ScreenShots/movie_s4.png)
