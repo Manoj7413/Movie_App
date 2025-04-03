@@ -8,9 +8,9 @@ A new Flutter project.
 
 #### Home Screen
 <p align="center">
-  <img src="Assets/ScreenShots/movie_s1.jpg" width="24%" style="margin-right: 10px;">
-  <img src="Assets/ScreenShots/movie_s2.jpg" width="24%" style="margin-right: 10px;">
-  <img src="Assets/ScreenShots/movie_s3.jpg" width="24%" style="margin-right: 10px;">
+  <img src="Assets/ScreenShots/movie_s1.jpg" width="24%" style="margin-right: 30px;">
+  <img src="Assets/ScreenShots/movie_s2.jpg" width="24%" style="margin-right: 30px;">
+  <img src="Assets/ScreenShots/movie_s3.jpg" width="24%" style="margin-right: 30px;">
   <img src="Assets/ScreenShots/movie_s4.jpg" width="24%">
 </p>
 
