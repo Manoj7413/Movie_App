@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-## Getting Started
-
 ### Here are some screenshots of the app:
 
 ### Home Screen
