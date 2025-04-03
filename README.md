@@ -7,7 +7,7 @@ A new Flutter project.
 ### Here are some screenshots of the app:
 
 #### Home Screen
-<p align="center">
+<p align="center" gap='10'>
   <img src="Assets/ScreenShots/movie_s1.jpg" width="24%">
   <img src="Assets/ScreenShots/movie_s2.jpg" width="24%">
   <img src="Assets/ScreenShots/movie_s3.jpg" width="24%">
