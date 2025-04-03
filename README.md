@@ -20,3 +20,7 @@ A new Flutter project.
   <img src="Assets/ScreenShots/movie_s6.jpg" width="30%">
 </p>
 
+#### Profile
+<p align="center">
+  <img src="Assets/ScreenShots/movie_s7.jpg" width="30%">
+</p>
