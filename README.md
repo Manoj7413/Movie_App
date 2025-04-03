@@ -12,6 +12,7 @@ A new Flutter project.
   <img src="Assets/ScreenShots/movie_s1.jpg" width="24%">
   <img src="Assets/ScreenShots/movie_s2.jpg" width="24%">
   <img src="Assets/ScreenShots/movie_s4.jpg" width="24%">
+   <img src="Assets/ScreenShots/movie_s3.jpg" width="24%">
 </p>
 
 #### Movie Details Screen
